@@ -18,7 +18,7 @@
 
 - :muscle: Trying to be a good CEO of [Byterum](https://byterum.com).
 - :muscle: Trying to be a better developer of blockchain application.
-- **Currently working on NFT ecosystem**.
+- **Currently working on NFT(Non-fungible Token) ecosystem**.
 
 Life is a movie, so don't waste time.
 📫 How to reach me: lowesyang@byterum.com
