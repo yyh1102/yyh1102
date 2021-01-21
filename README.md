@@ -2,7 +2,7 @@
 
 #### 2017
 
-- Learned blockchain technology and make it my major work.
+- Choose blockchain technology as my major work.
 - Joined in [Hyperchain](https://hyperchain.cn) (has 30+ people at that time).
 
 #### 2018
