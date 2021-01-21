@@ -21,5 +21,4 @@
 - **Currently working on NFT ecosystem**.
 
 Life is a movie, so don't waste time.
-
 📫 How to reach me: lowesyang@byterum.com
