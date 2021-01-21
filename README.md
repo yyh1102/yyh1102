@@ -3,7 +3,7 @@
 #### 2017
 
 - Choose blockchain technology as my major work.
-- Joined in [Hyperchain](https://hyperchain.cn) (has 30+ people at that time).
+- Joined in [Hyperchain](https://hyperchain.cn) and charged for permissioned blockchain development.
 
 #### 2018
 
