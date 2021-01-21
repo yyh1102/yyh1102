@@ -1,10 +1,5 @@
 ### Blockchain Developer and Lover
 
-## 2012
-
-- First knew bitcoin, and tried to mine bitcoin in my personal computer.
-- Missed a very good chance to buy bitcoins. :sob:
-
 ## 2017
 
 - Learned blockchain technology and make it my major of master degree.
