@@ -7,7 +7,7 @@
 
 #### 2018
 
-- Founded and operated the Blockchain Association of Zhejiang University. [Repo](https://github.com/Blockchain-zju) [Doc](https://docs.zjubca.org)
+- Founded and operated the Blockchain Association of Zhejiang University. [Repo](https://github.com/Blockchain-zju), [Website](https://docs.zjubca.org)
 
 #### 2019
 
