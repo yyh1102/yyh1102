@@ -12,7 +12,7 @@
 #### 2019
 
 - **Resigned from Hyperchain and founded [Byterum](https://byterum.com)**.
-- Focusing on the application of blockchain technology.
+- Focusing on the application of blockchain technology, especially Defi and NFT(Non-fungible Token).
 
 #### Now
 
