@@ -1,4 +1,4 @@
-### Blockchain Developer and Lover
+### Blockchain Developer and Entrepreneur
 
 #### 2017
 
