@@ -16,7 +16,7 @@
 
 #### Now
 
-- :muscle: Trying to be a good CEO of [Byterum](https://byterum.com).
+- :muscle: Trying to be a good Captain of [Byterum](https://byterum.com).
 - :muscle: Trying to be a better developer of blockchain application.
 - **Currently working on NFT(Non-fungible Token) ecosystem**.
 
