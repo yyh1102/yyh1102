@@ -22,4 +22,4 @@
 
 #### We're hiring!
 
-If you're interested in buidling NFT ecosystem, contact us via **hr@byterum.com**.
+If you're interested in building NFTGo.io or NFT ecosystem, contact us via **hr@byterum.com**.
