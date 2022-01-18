@@ -20,4 +20,6 @@
 - :muscle: Trying to build the best all-in-one NFT analytics platform [NFTGo.io](https://nftgo.io).
 - **Currently working on NFT(Non-fungible Token) ecosystem**.
 
-We're hiring!!!!!If you're interested in buidling NFT ecosystem, contact us via hr@byterum.com.
+#### We're hiring!
+
+If you're interested in buidling NFT ecosystem, contact us via **hr@byterum.com**.
