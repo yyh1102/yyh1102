@@ -17,8 +17,7 @@
 #### Now
 
 - :muscle: Trying to be a good Captain of [Byterum](https://byterum.com).
-- :muscle: Trying to be a better developer of blockchain application.
+- :muscle: Trying to build the best all-in-one NFT analytics platform [NFTGo.io](https://nftgo.io).
 - **Currently working on NFT(Non-fungible Token) ecosystem**.
 
-Life is a movie, so don't waste time.
-📫 How to reach me: lowesyang@byterum.com
+We're hiring!!!!!If you're interested in buidling NFT ecosystem, contact us via hr@byterum.com.
